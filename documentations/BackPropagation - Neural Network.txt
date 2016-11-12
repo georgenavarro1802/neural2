@@ -1,0 +1,5 @@
+When the neural network calculates the error in layer 2,
+it propagates the error backwards to layer 1, adjusting the weights as it goes.
+This is called <<back propagation>>
+
+<< Figure Training Cycle - Neural Network >>
